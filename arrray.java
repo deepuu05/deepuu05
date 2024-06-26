@@ -1,6 +1,6 @@
 // largest number of an array
 import java.util.Scanner;
-class HelloWorld {
+class Demo {
     void Arr(){
     int age[]={1,3,5,6};
     int ans=0;
@@ -16,7 +16,7 @@ class HelloWorld {
 public class Main{
     public static void main(String[] args) {
        // System.out.println("hello world");
-        HelloWorld obj= new HelloWorld();
+        Demo obj= new Demo();
         //.age=20;
     //System.out.println("the age is "+obj.age);
     obj.Arr();
